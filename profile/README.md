@@ -1,4 +1,4 @@
-# RootCard Open
+# RootCard
 
 **An open, portable identity for online logins — an ID card you own.**
 
